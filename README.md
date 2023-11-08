@@ -26,4 +26,5 @@ Se déplacer avec les flèches
 <!-- {:style="text-align:center;"} -->
 
 
-![img_shooter2D](https://github.com/JlnPrr/Shooter2D/assets/83329578/ab86c6d5-5d2f-4c84-9e53-eaea38796ebf)
+
+![img_shooter2D](https://github.com/JlnPrr/Shooter2D/assets/83329578/e135a3ce-e3bd-4186-8d46-fb3f4f9ce217)
